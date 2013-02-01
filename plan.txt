@@ -1,0 +1,14 @@
+basic algorithm
+  train with solution set
+  view and color uncolored set based on training
+
+torus_maker
+  generates torus png
+
+trainer: dmc
+  imported neuron from logic gate classifier
+  
+1. torus
+2. stairs
+
+limitations of using pngs
